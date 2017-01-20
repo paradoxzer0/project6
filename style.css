@@ -5,7 +5,7 @@ h1 {
 
 h2 {
 	text-align: center;
-	text-decoration-line: underline;
+	text-decoration: underline;
 }
 
 p {
@@ -19,5 +19,5 @@ ul {
 
 ol {
 	font-weight: bold;
-	font: 20px;
+	font-size: 1.6em;
 }
